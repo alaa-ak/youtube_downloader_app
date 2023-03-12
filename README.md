@@ -1,6 +1,6 @@
 # youtube_downloader_app
 
-This is YouTube Downloader App (currently tested on Android) to download videos and audios from YouTube.
+This is YouTube Downloader App (currently tested on Android) to download videos and audios from YouTube - built fully in Flutter.
 Using youtube_explode_dart 1.12.4 Package.
 Using Bloc State Management .
 - Home Screen 
@@ -10,7 +10,7 @@ Using Bloc State Management .
 ![appDrawer1 1](https://user-images.githubusercontent.com/122216335/224569313-97e8e8e3-4577-43da-8334-33cd914dfee9.png)
 
 - Alert Message
-![pasteLink2](https://user-images.githubusercontent.com/122216335/224569362-a7d39d5b-f2ee-490d-98ab-5352ef18c3d8.png)
+![pasteLink2](https://user-images.githubusercontent.com/122216335/224570714-3d76db37-2f91-40e0-ae47-e797397f832f.png)
 
 -Alert Message
 ![invalidLink3](https://user-images.githubusercontent.com/122216335/224569319-c55d80e7-cd45-4cf2-98ae-aa72986ef763.png)
