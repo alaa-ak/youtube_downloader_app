@@ -32,7 +32,7 @@ class PasteLinkScreen extends StatelessWidget {
             print("State is Empty Url State");
             ScaffoldMessenger.of(context).showSnackBar(
                 alertSnackBarWidget.AlertSnackBarFunction(
-                    'PLEASE PASTE The LINK '));
+                    'PLEASE PASTE THE LINK '));
           }
           if (state is ExistUrlState) {
             print('State is Exist Url State');

@@ -233,8 +233,7 @@ class _DownloadingScreenState extends State<DownloadingScreen> {
         _externalStorageDirPath = directory?.path;
       }
     } else if (Platform.isIOS) {
-      _externalStorageDirPath =
-          (await getApplicationDocumentsDirectory()).absolute.path;
+      _externalStorageDirPath = (await getDownloadsDirectory())!.absolute.path;
     }
     print('the File path $_externalStorageDirPath');
     return _externalStorageDirPath;

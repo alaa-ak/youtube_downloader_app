@@ -8,6 +8,7 @@ import 'package:shared_preferences/shared_preferences.dart';
 
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
+
   final _sharedPreferences = await SharedPreferences.getInstance();
 
   runApp(RepositoryProvider(

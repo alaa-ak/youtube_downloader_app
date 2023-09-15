@@ -4,7 +4,7 @@ import 'package:youtube_downloader_app/utils/dimensions.dart';
 
 import '../utils/colors.dart';
 
-class AppBarDesign extends StatelessWidget with PreferredSizeWidget {
+class AppBarDesign extends StatelessWidget implements PreferredSizeWidget {
   @override
   Widget build(BuildContext context) {
     return AppBar(
