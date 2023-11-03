@@ -2,7 +2,7 @@
 
 Screens :
 
-<img src ="https://github.com/alaa-ak/youtube_downloader_app/assets/122216335/794c6016-f9c7-4f86-9641-b33ef36fc9b5" width="1000" height="1000">
+<img src ="https://github.com/alaa-ak/youtube_downloader_app/assets/122216335/794c6016-f9c7-4f86-9641-b33ef36fc9b5" width="500" height="700">
 
 <img src ="https://github.com/alaa-ak/youtube_downloader_app/assets/122216335/494ffd43-7cc1-4672-a578-867b64f4ea59" width="1000" height="1000">
 
